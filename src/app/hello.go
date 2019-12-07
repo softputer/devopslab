@@ -8,7 +8,7 @@ import (
 )
 
 func say(word string) string {
-	title := "Hello world, this is"
+	title := "Hello world, this is ok"
 	return title + " " + word
 }
 
